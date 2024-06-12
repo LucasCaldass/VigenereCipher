@@ -12,7 +12,7 @@ Este projeto implementa a cifra de Vigenère.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/usuario/VigenereCipher.git
+    git clone https://github.com/LucasCaldass/VigenereCipher.git
     ```
 
 2. Navegue até o diretório do projeto:
