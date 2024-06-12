@@ -1,32 +1,32 @@
 # Vigenère Cipher
 
-Este projeto implementa a cifra de Vigenère.
+This project implements the Vigenère cipher.
 
-## Estrutura do Projeto
+## Project Structure
 
-- `encrypt.py`: Função para encriptação.
-- `decrypt.py`: Função para desencriptação.
-- `complete_key.py`: Função para ajustar o comprimento da chave.
+- `encrypt.py`: Function for encryption.
+- `decrypt.py`: Function for decryption.
+- `complete_key.py`: Function to adjust the key length.
 
-## Como Executar
+## How to Run
 
-1. Clone o repositório:
+1. Clone the repository:
     ```sh
     git clone https://github.com/LucasCaldass/VigenereCipher.git
     ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
     ```sh
     cd VigenereCipher
     ```
 
-3. Execute o programa:
+3. Run the program:
     ```sh
     python main.py
     ```
 
-## Exemplo de Uso
+## Usage Example
 
-1. Selecione a opção "Encriptar uma mensagem" ou "Desencriptar uma mensagem"
-2. Forneça a mensagem a ser encriptada ou desencriptada, juntamente com a chave que será utilizada para o processo.
-3. A saída será a mensagem resultante.
+1. Select the option "Encrypt a message" or "Decrypt a message".
+2. Provide the message to be encrypted or decrypted, along with the key to be used for the process.
+3. The output will be the resulting message.
