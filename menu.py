@@ -6,14 +6,14 @@ def option_encrypt():
     phrase = input('Digite a frase a ser encriptada: ')
     key = input('Digite a chave que será usada na encriptação da mensagem: ')
 
-    print(encrypt(key, phrase))
+    print(encrypt(key, phrase).lower())
 
 
 def option_decrypt():
     phrase = input('Digite a frase encriptada que deseja desencriptar: ')
     key = input('Digite a chave na encriptação da mensagem: ')
 
-    print(decrypt(key, phrase))
+    print(decrypt(key, phrase).lower())
 
 
 def menu():
