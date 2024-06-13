@@ -1,6 +1,7 @@
 # Vigenère Cipher
 
 This project implements the Vigenère cipher.
+The input can be a sentence with letters, characters and numbers, but the cipher it's designated to just encrypt the letters, so, the other characters will remain unchanged in the same position as in the original sentece.
 
 ## Project Structure
 
